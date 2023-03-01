@@ -1,0 +1,51 @@
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.exe
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.deps.json
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.runtimeconfig.json
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.dll
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.assig3.resources
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.GenerateResource.cache
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfo.cs
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.dll
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\refint\Assigment3.dll
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.genruntimeconfig.cache
+C:\Users\rapha\Desktop\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\ref\Assigment3.dll
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.exe
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.deps.json
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.runtimeconfig.json
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.dll
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\ref\Assigment3.dll
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\bin\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.AssemblyReference.cache
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.assig3.resources
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.GenerateResource.cache
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfoInputs.cache
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfo.cs
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.dll
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\ref\Assigment3.dll
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\erik\Desktop\Temp Extract\CSharpAss3\Assigment3\obj\Debug\net6.0-windows\Assigment3.genruntimeconfig.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\bin\Debug\net6.0-windows\Assigment3.exe
+C:\Users\rapha\Downloads\Assigment3\Assigment3\bin\Debug\net6.0-windows\Assigment3.deps.json
+C:\Users\rapha\Downloads\Assigment3\Assigment3\bin\Debug\net6.0-windows\Assigment3.runtimeconfig.json
+C:\Users\rapha\Downloads\Assigment3\Assigment3\bin\Debug\net6.0-windows\Assigment3.dll
+C:\Users\rapha\Downloads\Assigment3\Assigment3\bin\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.AssemblyReference.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.assig3.resources
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.GenerateResource.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfoInputs.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.AssemblyInfo.cs
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.dll
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\refint\Assigment3.dll
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.pdb
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\Assigment3.genruntimeconfig.cache
+C:\Users\rapha\Downloads\Assigment3\Assigment3\obj\Debug\net6.0-windows\ref\Assigment3.dll
